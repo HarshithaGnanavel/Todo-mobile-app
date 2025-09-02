@@ -1,10 +1,6 @@
-Bet ✨ here’s a **clean, short README** version you can drop in your repo without overwhelming walls of text:
-
----
-
 # 📌 ToDo App
 
-A simple mobile app to organize tasks and boost productivity.
+A simple mobile app to organize tasks.
 
 ---
 
@@ -12,7 +8,6 @@ A simple mobile app to organize tasks and boost productivity.
 
 * Add, edit, and delete tasks
 * Mark tasks as complete
-* Dark/Light mode
 * Local storage support
 
 ---
@@ -36,15 +31,3 @@ Run on device:
 
 * Android → `npm run android`
 * iOS → `npm run ios`
-
----
-
-## 📂 Structure
-
-```
-src/
- ├── components/
- ├── screens/
- ├── navigation/
- └── utils/
-```
