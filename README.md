@@ -6,7 +6,7 @@ A simple mobile app to organize tasks.
 
 ## ✨ Features
 
-* Add, edit, and delete tasks
+* Add, search, and delete tasks
 * Mark tasks as complete
 * Local storage support
 
